@@ -1,5 +1,5 @@
 {
   "android_url": "https://baidu.com/app.apk",
   "ios_url": "https://apps.apple.com/xwapp.ipa",
-  "contact": "Telegram: @黑丝女教师\n微信: 123456789\nApp 已迁移，请前往新地址下载"
+  "contact": "Telegram: @xxxxxxx\n微信: 123456789\nApp 已迁移，请前往新地址下载"
 }
